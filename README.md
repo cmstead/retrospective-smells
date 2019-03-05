@@ -1,4 +1,5 @@
 
+<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Retrospective Smells/Antipatterns #
 #### Insights On Retrospectives by Willem Larsen [@cascadiaWillem](https://twitter.com/cascadiawillem) ####
 
@@ -45,4 +46,5 @@ The next anti-patterns are process-oriented, rather than expectation/assumptions
 You’ll note that I mentioned the same data and insights, meaning other options weren’t discussed, and the same action was decided upon anyway in an empty ceremony. In that case a retro is irrelevant. Retros should uncover unshared data, new insights, etc.
     
 
+<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
     

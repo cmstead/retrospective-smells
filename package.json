@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cmstead/retrospective-smells#readme",
   "devDependencies": {
-    "booklisp": "^1.7.2"
+    "booklisp": "^1.7.3"
   }
 }
