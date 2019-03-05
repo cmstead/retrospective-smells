@@ -1,5 +1,6 @@
 
 # Retrospective Smells/Antipatterns #
+#### Insights On Retrospectives by Willem Larsen [@cascadiaWillem](https://twitter.com/cascadiawillem) ####
 
 ## Table Of Contents ##
 
