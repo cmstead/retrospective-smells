@@ -3,8 +3,17 @@
 
 ## Table Of Contents ##
 
-- [Section 1: Assumptive Antipatterns](#user-content-assumptive-antipatterns)
-- [Section 2: Process Antipatterns](#user-content-process-antipatterns)
+- [Section 1: Introduction](#user-content-introduction)
+- [Section 2: Assumptive Antipatterns](#user-content-assumptive-antipatterns)
+- [Section 3: Process Antipatterns](#user-content-process-antipatterns)
+
+## Introduction ##
+
+Editors note: This was extracted from Willem Larsen's Twitter feed and it reflects work he did at the end of 2018 into the beginning of 2019.
+
+Had fun designing a retro-facilitator training, came up with anti-patterns that seem to break retros or smother their impact.
+
+    
 
 ## Assumptive Antipatterns ##
 
@@ -18,8 +27,6 @@ The following are "assumptive" anti-patterns - the expectations that we bring wi
 - **THE DEVIL'S POM-POMS** - "Our team is already great, there's no need to try to improve!"
 
     
-
-## Process Antipatterns ##
 
 ## Process Antipatterns ##
 

@@ -4,8 +4,6 @@
 )
 /bl-->
 
-## Process Antipatterns ##
-
 The next anti-patterns are process-oriented, rather than expectation/assumptions
 
 - **ORPHANS** - Next actions with no courier/handler name attached to midwife their implementation.
