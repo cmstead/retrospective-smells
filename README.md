@@ -1,8 +1,10 @@
+
 # Retrospective Smells/Antipatterns #
 
-Editors note: This was extracted from Willem Larsen's Twitter feed and it reflects work he did at the end of 2018 into the beginning of 2019.
+## Table Of Contents ##
 
-Had fun designing a retro-facilitator training, came up with anti-patterns that seem to break retros or smother their impact. 
+- [Section 1: Assumptive Antipatterns](#user-content-assumptive-antipatterns)
+- [Section 2: Process Antipatterns](#user-content-process-antipatterns)
 
 ## Assumptive Antipatterns ##
 
@@ -14,6 +16,10 @@ The following are "assumptive" anti-patterns - the expectations that we bring wi
 - **NICE GUY** - "I don't want to make anybody uncomfortable."
 - **PARTY POOPER** - "I don't want to ruin the fun that we are still able to have in spit of our issues."
 - **THE DEVIL'S POM-POMS** - "Our team is already great, there's no need to try to improve!"
+
+    
+
+## Process Antipatterns ##
 
 ## Process Antipatterns ##
 
@@ -29,3 +35,6 @@ The next anti-patterns are process-oriented, rather than expectation/assumptions
 ### Expansion on Why I Told You So is an Antipattern ###
 
 You’ll note that I mentioned the same data and insights, meaning other options weren’t discussed, and the same action was decided upon anyway in an empty ceremony. In that case a retro is irrelevant. Retros should uncover unshared data, new insights, etc.
+    
+
+    
